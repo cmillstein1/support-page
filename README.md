@@ -1,9 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>Support — Vybe Code</title>
+
 </head>
 <body style="font-family:system-ui,Arial,sans-serif;max-width:720px;margin:48px auto;">
   <h1>Vybe Code — Support</h1>
