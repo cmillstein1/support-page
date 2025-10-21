@@ -1,5 +1,4 @@
 
-</head>
 <body style="font-family:system-ui,Arial,sans-serif;max-width:720px;margin:48px auto;">
   <h1>Vybe Code — Support</h1>
   <p>Thanks for using Vybe Code! If you need help, have feedback, or want to report a bug, contact us:</p>
@@ -12,4 +11,3 @@
     © 2025 VybeSquad
   </footer>
 </body>
-</html>
